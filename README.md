@@ -16,7 +16,6 @@ You can try it out here: [Connections Unlimited Game](https://www.connectionsunl
 
 - React.js
 - seedrandom for predictable randomness
-- react-helmet for SEO
 
 ## Getting Started
 
@@ -38,10 +37,6 @@ To get a local copy up and running, follow these simple example steps:
     ```
 
 4. Visit http://localhost:3000 (if the browser does not open automatically) to view it in the browser.
-
-## Contributing
-
-Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
 ## License
 
