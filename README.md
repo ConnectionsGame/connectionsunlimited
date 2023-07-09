@@ -1,6 +1,10 @@
 # Connections Unlimited Game
 
-Connections Unlimited is a game application that resembles the popular New York Times Connections game with some enhancements. In this version, you get to improve your vocabulary and have endless fun finding word groups. This game is suitable for all ages!
+Connections Unlimited is a game application that resembles the popular NYT Connections game with some enhancements. In this version, you get to improve your vocabulary and have endless fun finding word groups. This game is suitable for all ages!
+
+## Important Notice
+
+The game logic and code are under the copyright of ConnectionsUnlimited.org. Please make sure to respect the rights and not use any part of the game for commercial purposes. DMCA notices will be issued to any repositories found to be infringing upon these rights.
 
 ## Live Demo
 You can try it out here: [Connections Unlimited Game](https://www.connectionsunlimited.org)
@@ -38,9 +42,6 @@ To get a local copy up and running, follow these simple example steps:
 
 4. Visit http://localhost:3000 (if the browser does not open automatically) to view it in the browser.
 
-## License
-
-The game logic and code are under the copyright of Connections Unlimited. Please make sure to respect the rights and not use any part of the game for commercial purposes.
 
 ## Acknowledgements
 
