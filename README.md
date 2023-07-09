@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple example steps:
 
 1. Clone the repo
     ```
-    git clone <repository-link>
+    git clone https://github.com/ConnectionsGame/connectionsunlimited.git
     ```
 
 2. Install NPM packages
