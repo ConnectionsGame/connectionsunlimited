@@ -1,6 +1,6 @@
 # Connections Unlimited Game
 
-This is a game application that resembles the popular New York Times Connections game with some enhancements. In this version, you get to improve your vocabulary and have endless fun finding word groups. This game is suitable for all ages!
+Connections Unlimited is a game application that resembles the popular New York Times Connections game with some enhancements. In this version, you get to improve your vocabulary and have endless fun finding word groups. This game is suitable for all ages!
 
 ## Live Demo
 You can try it out here: [Connections Unlimited Game](https://www.connectionsunlimited.org)
